@@ -10,7 +10,7 @@
 
 - 📫 How to reach me ...
   - 📧 cooocy@foxmail.com
-  - 🌐 [捂脸斋](https://www.5lian.ink)
+  - 🌐 [捂脸斋](https://www.dcyy.cc)
 
 
 <!---
