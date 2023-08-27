@@ -12,6 +12,9 @@
   - 📧 cooocy@foxmail.com
   - 🌐 [捂脸斋](https://www.dcyy.cc)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cooocy&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooocy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 cooocy/cooocy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
