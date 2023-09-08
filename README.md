@@ -6,6 +6,7 @@
 - 偶尔看书
 - Mac/Linux/Elden Ring Melina/红楼梦爱好者
 - 颜值就是生产力
+- Constant YES ☺︎, Constant Class NO ☹︎
 
 ## About Me
 
