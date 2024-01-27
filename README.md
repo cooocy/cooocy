@@ -12,7 +12,7 @@
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=cooocy)](https://visitor-badge.laobi.icu/badge?page_id=cooocy)
 [![](https://img.shields.io/github/stars/cooocy?labelColor=AFCD53&color=EE819E&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=cooocy&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/cooocy?labelColor=BA8677&color=FFC408&logo=Handshake&logoColor=FFFFFF)](https://github.com/cooocy?tab=followers)
+[![](https://img.shields.io/github/followers/cooocy?labelColor=BA8677&color=FFC408&logo=anydesk&logoColor=000000)](https://github.com/cooocy?tab=followers)
 [![](https://img.shields.io/badge/Blog-捂脸斋-B8DED0?labelColor=E6E3C5&logo=readme&logoColor=FFFFFF)](https://www.dcyy.cc)
 [![Mail Badge](https://img.shields.io/badge/foxmail-cooocy@foxmail.com-FB9966?labelColor=606DA1&style=flat&logo=protonmail&logoColor=FFFFFF&link=mailto:cooocy@foxmail.com)](mailto:cooocy@foxmail.com)
 
