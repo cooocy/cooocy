@@ -1,4 +1,6 @@
-# 👋 Hi, I’m 绛酱～
+## 👋 Hi, I’m 绛酱～
+
+#### 🧑🏻‍💻 About Me
 
 - 开发者 ~~互联网农民工，不是~~
 - 代码洁癖
@@ -8,7 +10,7 @@
 - 颜值就是生产力
 - Constant YES ☺︎, Constant Class NO ☹︎
 
-## About Me
+#### 📮 Connect With Me
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=cooocy)](https://visitor-badge.laobi.icu/badge?page_id=cooocy)
 [![](https://img.shields.io/github/stars/cooocy?labelColor=AFCD53&color=EE819E&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=cooocy&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
@@ -16,7 +18,7 @@
 [![](https://img.shields.io/badge/Blog-捂脸斋-B8DED0?labelColor=E6E3C5&logo=readme&logoColor=FFFFFF)](https://www.dcyy.cc)
 [![Mail Badge](https://img.shields.io/badge/Mail-cooocy@foxmail.com-FB9966?labelColor=606DA1&style=flat&logo=protonmail&logoColor=FFFFFF&link=mailto:cooocy@foxmail.com)](mailto:cooocy@foxmail.com)
 
-## Technology Stack
+#### 💻 Skills
 
 <a href="https://www.zsh.org" target="_blank" rel="noreferrer"> <img src="https://www.zsh.org/color_vertical_icon.png" alt="zsh" width="40" height="40"/> </a>
 <a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
@@ -38,8 +40,7 @@
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
 
-
-## Stats
+#### ❄️ Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cooocy&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooocy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
